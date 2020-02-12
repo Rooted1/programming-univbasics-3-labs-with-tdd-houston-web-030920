@@ -1,2 +1,3 @@
 # Add your variables here
-puts 
+first_number = 1 
+second_number = 2 
